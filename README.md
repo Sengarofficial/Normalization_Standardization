@@ -1,4 +1,4 @@
-# Normalization_Standardization:
+## Normalization_Standardization:
 Transformation of Features :
 Why transformation of features are required ?
 
@@ -21,3 +21,32 @@ Gaussian Transformation:
             Square Root Transformation.
             Exponenetial Transformation.
             Box Cox Transformation.
+            
+            
+## Authors
+
+- [@Sengarofficial](https://www.github.com/Sengarofficial)
+
+## Contributing
+
+Contributions are always welcome!
+
+## Documentation
+
+https://scikit-learn.org/stable/modules/preprocessing.html
+
+## Feedback
+
+If you have any feedback, please reach out to us at grv.m02@gmail.com
+
+## 🚀 About Me
+| Python Engineer | Machine Learning Engineer | Deep Learning Enthusiasts | Analyst | Electrical & Electronics Engineer | On the Way to Full Stack Developer....
+
+## 🔗 Links
+
+https://github.com/Sengarofficial 
+
+## License 
+
+The Unlicense 
+
